@@ -108,7 +108,7 @@ This is a list of grammars that Linguist selects to provide syntax highlighting 
 - **EmberScript:** [atom/language-coffee-script](https://github.com/atom/language-coffee-script)
 - **EQ:** [atom/language-csharp](https://github.com/atom/language-csharp)
 - **Erlang:** [textmate/erlang.tmbundle](https://github.com/textmate/erlang.tmbundle)
-- **F#:** [fsprojects/atom-fsharp](https://github.com/fsprojects/atom-fsharp)
+- **F#:** [ionide-fsgrammar](https://github.com/ionide/ionide-fsgrammar)
 - **Factor:** [slavapestov/factor](https://github.com/slavapestov/factor)
 - **Fancy:** [fancy-lang/fancy-tmbundle](https://github.com/fancy-lang/fancy-tmbundle)
 - **Fantom:** [rkoeninger/sublime-fantom](https://github.com/rkoeninger/sublime-fantom)

@@ -181,7 +181,7 @@ vendor/grammars/asp.tmbundle:
 vendor/grammars/assembly:
 - objdump.x86asm
 - source.x86asm
-vendor/grammars/atom-fsharp:
+vendor/grammars/ionide-fsgrammar:
 - source.fsharp
 - source.fsharp.fsi
 - source.fsharp.fsl
